@@ -1,8 +1,15 @@
 body {
-    margin: 150px 600px
+    margin: 0;
+    text-align: center;
 }
 
-input {
-    /* border: none; */
-    box-shadow: 1 rem;
+.hero {
+    background: #6943fe;
+    color: white;
+    padding: 30px;
+}
+
+.result {
+    background: white;
+    padding: 5px;
 }
